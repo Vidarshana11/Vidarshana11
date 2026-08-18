@@ -70,8 +70,8 @@ Tools         Python · Pandas · NumPy · scikit-learn · Jupyter · Git · Doc
 ## GitHub snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vidarshana11&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=A78BFA&amp;text_color=94A3B8&amp;icon_color=22D3EE" alt="Vidarshana's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidarshana11&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=A78BFA&amp;text_color=94A3B8" alt="Vidarshana's most-used languages" />
+  <img height="165" src="./assets/github-snapshot.svg?v=20260819" alt="Vidarshana's public GitHub snapshot" />
+  <img height="165" src="./assets/data-focus.svg?v=20260819" alt="Vidarshana's data and AI focus areas" />
 </p>
 
 ## Principles I build by

@@ -1,0 +1,46 @@
+<svg width="520" height="220" viewBox="0 0 520 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Vidarshana's data and AI focus</title>
+  <desc id="desc">Focus areas covering data engineering, analytics, machine learning, and artificial intelligence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="20" y1="5" x2="500" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10162A"/>
+      <stop offset="0.52" stop-color="#13152B"/>
+      <stop offset="1" stop-color="#09212B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="55" y1="0" x2="470" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#FFFFFF" stroke-opacity="0.025"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="518" height="218" rx="16" fill="url(#bg)" stroke="#22D3EE" stroke-opacity="0.3" stroke-width="2"/>
+  <rect x="1" y="1" width="518" height="218" rx="16" fill="url(#grid)"/>
+  <rect x="24" y="24" width="4" height="34" rx="2" fill="url(#accent)"/>
+  <text x="42" y="42" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">Data &amp; AI Focus</text>
+  <text x="42" y="59" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">Skills developed through study and practical projects</text>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+    <rect x="24" y="79" width="226" height="48" rx="10" fill="#A78BFA" fill-opacity="0.09" stroke="#A78BFA" stroke-opacity="0.3"/>
+    <circle cx="43" cy="103" r="5" fill="#A78BFA"/>
+    <text x="56" y="99" fill="#EDE9FE" font-size="12" font-weight="700">Data Engineering</text>
+    <text x="56" y="115" fill="#94A3B8" font-size="10">pipelines · ETL · SQL</text>
+
+    <rect x="270" y="79" width="226" height="48" rx="10" fill="#22D3EE" fill-opacity="0.07" stroke="#22D3EE" stroke-opacity="0.28"/>
+    <circle cx="289" cy="103" r="5" fill="#22D3EE"/>
+    <text x="302" y="99" fill="#CFFAFE" font-size="12" font-weight="700">Data Analytics</text>
+    <text x="302" y="115" fill="#94A3B8" font-size="10">EDA · visualization · insights</text>
+
+    <rect x="24" y="143" width="226" height="48" rx="10" fill="#FBBF24" fill-opacity="0.07" stroke="#FBBF24" stroke-opacity="0.28"/>
+    <circle cx="43" cy="167" r="5" fill="#FBBF24"/>
+    <text x="56" y="163" fill="#FEF3C7" font-size="12" font-weight="700">Machine Learning</text>
+    <text x="56" y="179" fill="#94A3B8" font-size="10">modeling · evaluation · features</text>
+
+    <rect x="270" y="143" width="226" height="48" rx="10" fill="#34D399" fill-opacity="0.07" stroke="#34D399" stroke-opacity="0.28"/>
+    <circle cx="289" cy="167" r="5" fill="#34D399"/>
+    <text x="302" y="163" fill="#D1FAE5" font-size="12" font-weight="700">AI Systems</text>
+    <text x="302" y="179" fill="#94A3B8" font-size="10">NLP · agents · responsible AI</text>
+  </g>
+</svg>
